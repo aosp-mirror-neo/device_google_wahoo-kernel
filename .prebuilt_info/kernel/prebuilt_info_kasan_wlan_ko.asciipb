@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "4916151"
+    target: "kernel_kasan"
+    source_file: "wlan.ko"
+  }
+  dest_file: "kasan/wlan.ko"
+  version: "Linux version 4.4.116-g5143df1 (android-build@abfarm911) (Android clang version 5.0.300080 (based on LLVM 5.0.300080)) #1 SMP PREEMPT Fri Jul 27 01:06:32 UTC 2018"
+  version_group: "kernel"
+  git_project: "device/google/wahoo-kernel"
+}
