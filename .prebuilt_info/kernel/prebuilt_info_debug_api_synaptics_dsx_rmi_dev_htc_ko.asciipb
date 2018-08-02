@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "4916151"
+    build_id: "4927054"
     target: "kernel_debug_api"
     source_file: "synaptics_dsx_rmi_dev_htc.ko"
   }
   dest_file: "debug_api/synaptics_dsx_rmi_dev_htc.ko"
-  version: "Linux version 4.4.116-g5143df1 (android-build@abfarm911) (Android clang version 5.0.300080 (based on LLVM 5.0.300080)) #1 SMP PREEMPT Fri Jul 27 01:06:32 UTC 2018"
+  version: "Linux version 4.4.116-g6d15b70 (android-build@abfarm695) (Android clang version 5.0.300080 (based on LLVM 5.0.300080)) #1 SMP PREEMPT Thu Aug 2 01:00:42 UTC 2018"
   version_group: "kernel"
   git_project: "device/google/wahoo-kernel"
 }
