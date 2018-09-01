@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "4969238"
+    build_id: "4988188"
     target: "kernel_gcc"
     source_file: "touch_core_base.ko"
   }
   dest_file: "gcc/touch_core_base.ko"
-  version: "Linux version 4.4.116-gfc7f80273441 (android-build@wprl4.hot.corp.google.com) (Android clang version 5.0.300080 (based on LLVM 5.0.300080)) #1 SMP PREEMPT Wed Aug 22 03:01:18 UTC 2018"
+  version: "Linux version 4.4.116-g1720f4b (android-build@abfarm409) (Android clang version 5.0.300080 (based on LLVM 5.0.300080)) #1 SMP PREEMPT Fri Aug 31 19:32:50 UTC 2018"
   version_group: "kernel"
   git_project: "device/google/wahoo-kernel"
 }
