@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "4988188"
+    build_id: "5004583"
     target: "kernel"
     source_file: "htc_battery.ko"
   }
   dest_file: "htc_battery.ko"
-  version: "Linux version 4.4.116-g1720f4b (android-build@abfarm409) (Android clang version 5.0.300080 (based on LLVM 5.0.300080)) #1 SMP PREEMPT Fri Aug 31 19:32:50 UTC 2018"
+  version: "Linux version 4.4.116-g9bbd299fe50b (android-build@vped4.mtv.corp.google.com) (Android (4751641 based on r328903) clang version 7.0.2 (https://android.googlesource.com/toolchain/clang 003100370607242ddd5815e4a043907ea9004281) (https://android.googlesource.com/toolchain/llvm 1d739ffb0366421d383e04ff80ec2ee591315116) (based on LLVM 7.0.2svn)) #1 SMP PREEMPT Tue Sep 11 22:19:10 UTC 2018"
   version_group: "kernel"
   git_project: "device/google/wahoo-kernel"
 }
