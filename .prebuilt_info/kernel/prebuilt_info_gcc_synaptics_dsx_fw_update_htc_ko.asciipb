@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "5004583"
+    build_id: "5009568"
     target: "kernel_gcc"
     source_file: "synaptics_dsx_fw_update_htc.ko"
   }
   dest_file: "gcc/synaptics_dsx_fw_update_htc.ko"
-  version: "Linux version 4.4.116-g9bbd299fe50b (android-build@vped4.mtv.corp.google.com) (Android (4751641 based on r328903) clang version 7.0.2 (https://android.googlesource.com/toolchain/clang 003100370607242ddd5815e4a043907ea9004281) (https://android.googlesource.com/toolchain/llvm 1d739ffb0366421d383e04ff80ec2ee591315116) (based on LLVM 7.0.2svn)) #1 SMP PREEMPT Tue Sep 11 22:19:10 UTC 2018"
+  version: "Linux version 4.4.155-g32f26d6b7aa8 (android-build@wphl6.hot.corp.google.com) (Android (4751641 based on r328903) clang version 7.0.2 (https://android.googlesource.com/toolchain/clang 003100370607242ddd5815e4a043907ea9004281) (https://android.googlesource.com/toolchain/llvm 1d739ffb0366421d383e04ff80ec2ee591315116) (based on LLVM 7.0.2svn)) #1 SMP PREEMPT Thu Sep 13 20:40:39 UTC 2018"
   version_group: "kernel"
   git_project: "device/google/wahoo-kernel"
 }
