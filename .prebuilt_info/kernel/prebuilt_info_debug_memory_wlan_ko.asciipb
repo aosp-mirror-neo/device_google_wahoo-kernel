@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "4964683"
+    build_id: "4998682"
     target: "kernel_debug_memory"
     source_file: "wlan.ko"
   }
   dest_file: "debug_memory/wlan.ko"
-  version: "Linux version 4.4.116-g48f4f76656f8 (android-build@wpiw3.hot.corp.google.com) (Android clang version 5.0.300080 (based on LLVM 5.0.300080)) #1 SMP PREEMPT Mon Aug 20 18:40:20 UTC 2018"
+  version: "Linux version 4.4.116-g62fd7c7873da (android-build@vpef7.mtv.corp.google.com) (Android clang version 5.0.300080 (based on LLVM 5.0.300080)) #1 SMP PREEMPT Fri Sep 7 17:24:44 UTC 2018"
   version_group: "kernel"
   git_project: "device/google/wahoo-kernel"
 }
