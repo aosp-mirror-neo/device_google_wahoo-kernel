@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "4998682"
+    build_id: "5055789"
     target: "kernel_debug_locking"
     source_file: "synaptics_dsx_fw_update_htc.ko"
   }
   dest_file: "debug_locking/synaptics_dsx_fw_update_htc.ko"
-  version: "Linux version 4.4.116-g62fd7c7873da (android-build@vpef7.mtv.corp.google.com) (Android clang version 5.0.300080 (based on LLVM 5.0.300080)) #1 SMP PREEMPT Fri Sep 7 17:24:44 UTC 2018"
+  version: "Linux version 4.4.155-g51060cd941c5 (android-build@wpdv2.hot.corp.google.com) (Android clang version 5.0.300080 (based on LLVM 5.0.300080)) #1 SMP PREEMPT Mon Oct 8 22:15:37 UTC 2018"
   version_group: "kernel"
   git_project: "device/google/wahoo-kernel"
 }
