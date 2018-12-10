@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "4948294"
+    build_id: "5063402"
     target: "kernel_debug_locking"
     source_file: "ftm4.ko"
   }
   dest_file: "debug_locking/ftm4.ko"
-  version: "Linux version 4.4.116-gf260015dd1ec (android-build@wphm8.hot.corp.google.com) (Android clang version 5.0.300080 (based on LLVM 5.0.300080)) #1 SMP PREEMPT Sat Aug 11 01:24:55 UTC 2018"
+  version: "Linux version 4.4.116-g8a6cc9c6abe9 (android-build@wprh5.hot.corp.google.com) (Android clang version 5.0.300080 (based on LLVM 5.0.300080)) #1 SMP PREEMPT Thu Oct 11 22:08:19 UTC 2018"
   version_group: "kernel"
   git_project: "device/google/wahoo-kernel"
 }
