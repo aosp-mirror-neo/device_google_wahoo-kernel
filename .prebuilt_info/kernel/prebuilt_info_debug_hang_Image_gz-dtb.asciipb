@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "5268308"
+    build_id: "5283383"
     target: "kernel_debug_hang"
     source_file: "Image.gz-dtb"
   }
   dest_file: "debug_hang/Image.gz-dtb"
-  version: "Linux version 4.4.172-g609a5898ce2c (android-build@wpre12.hot.corp.google.com) (Android (5166481 based on r346389b) clang version 8.0.6 (https://android.googlesource.com/toolchain/clang b55f2d4ebfd35bf643d27dbca1bb228957008617) (https://android.googlesource.com/toolchain/llvm dfe553c721f995b34e6608bd6039cce877e7bb1b) (based on LLVM 8.0.6svn)) #1 SMP PREEMPT Wed Jan 30 02:26:46 UTC 2019"
+  version: "Linux version 4.4.172-g10d9a5c (android-build@abfarm281) (Android (5166481 based on r346389b) clang version 8.0.6 (https://android.googlesource.com/toolchain/clang b55f2d4ebfd35bf643d27dbca1bb228957008617) (https://android.googlesource.com/toolchain/llvm dfe553c721f995b34e6608bd6039cce877e7bb1b) (based on LLVM 8.0.6svn)) #1 SMP PREEMPT Tue Feb 5 05:16:02 UTC 2019"
   version_group: "kernel"
   git_project: "device/google/wahoo-kernel"
 }
